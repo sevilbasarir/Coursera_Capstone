@@ -1,0 +1,8 @@
+For this project we need the following data :
+Singapore neighborhood data that contains list of Building Names, their latitudes and longitudes.
+Data source : open repository: https://github.com/xkjyeah/singapore-postal-codes.
+Description : This data set contains the required information. And we will use this data set to explore various neighborhood of each locality.
+
+For getting all venues within 500 meters and their geographical coordinates and venues categories.
+Data source : Fousquare API : "https://developer.foursquare.com/"
+Description : By using this api we will get all the venues in each neighborhood.
